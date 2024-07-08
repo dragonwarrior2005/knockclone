@@ -103,7 +103,7 @@ button {
 }
 /*Banner */
 .banner {
-    background-image: url(images/spidey.jpg);
+    background-image: url(spidey.jpg);
     height: 525px;
     width: 1200px;
     margin: 0 auto;
